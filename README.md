@@ -48,24 +48,8 @@ This project contains one executable file, a technical Summary document.
 * Using the similarity matrix obtained from the cosine similarity calculation, a content-based recommendation system was built. This system analyzes the user's watched shows to identify similar shows in the dataset and provides 10 recommendations to the user based on their viewing history with their respective Similarity scores
 this clustering and recommendation system is designed to improve the user's streaming experience by suggesting relevant content based on their interests and viewing history.
 
-recommend('Avengers: Infinity War')
+![neflix results](https://user-images.githubusercontent.com/122104510/229826746-b467642c-eb52-4d94-9485-9aa6006fdfdf.png)
 
-If you liked 'Avengers: Infinity War', you may also enjoy: 
-
-1 to 10 of 10 entries
-Filter
-
-index	Recommend programme	Similarity(0-1)
-0	Thor: Ragnarok	0.2285
-1	LEGO Friends: The Power of Friendship	0.2145
-2	Once in a Lifetime Sessions with Kasabian	0.1678
-3	The Little Prince	0.1666
-4	The Pursuit of Happyness	0.1634
-5	Her	0.1584
-6	The Little Mermaid	0.1511
-7	Takers	0.1446
-8	The Croods	0.1439
-9	Race to Witch Mountain
 
 
 **📜 Credits**
