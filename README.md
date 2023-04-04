@@ -29,10 +29,19 @@ This project contains one executable file, a technical Summary document.
 
 1. The distribution of content types in the dataset, with 69.14% of the content being movies and 30.86% being TV shows. This information can be useful for understanding the overall content offering of Netflix and could potentially inform decisions related to content acquisition and production. Additionally, this information may be of interest to users who are looking to explore the range of content available on the platform.
 
+![download1](https://user-images.githubusercontent.com/122104510/229824517-8fea6841-9d3d-49f3-a58a-221b1e2023d2.png)
+
+
 
 2. The analysis of the titles of movies and TV shows showed that certain words are repeated more frequently such as Christmas, Love, World, Man, and Story. The presence of the word Christmas in the titles could be explained by the fact that most of the content is uploaded during winters, which is the holiday season.
 
+![download (1)](https://user-images.githubusercontent.com/122104510/229824558-a87ff5d8-2db6-4835-9726-9e3e8e89974a.png)
+
+
 3. United States and the United Kingdom, the two nations show a high degree of alignment. However, when compared to nations like India or Japan, the target ages are radically different. This observation indicates that there may be significant cultural differences in entertainment preferences between these nations.
+
+![download](https://user-images.githubusercontent.com/122104510/229824187-9625d1a7-bae0-4730-a917-11f3eabbbc7a.png)
+
 
 
 📈 **Results**
