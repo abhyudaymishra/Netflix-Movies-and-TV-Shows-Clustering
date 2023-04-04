@@ -52,7 +52,10 @@ recommend('Avengers: Infinity War')
 
 If you liked 'Avengers: Infinity War', you may also enjoy: 
 
-Recommend programme	Similarity(0-1)
+1 to 10 of 10 entries
+Filter
+
+index	Recommend programme	Similarity(0-1)
 0	Thor: Ragnarok	0.2285
 1	LEGO Friends: The Power of Friendship	0.2145
 2	Once in a Lifetime Sessions with Kasabian	0.1678
@@ -62,7 +65,7 @@ Recommend programme	Similarity(0-1)
 6	The Little Mermaid	0.1511
 7	Takers	0.1446
 8	The Croods	0.1439
-9	Race to Witch Mountain	0.1424
+9	Race to Witch Mountain
 
 
 **📜 Credits**
