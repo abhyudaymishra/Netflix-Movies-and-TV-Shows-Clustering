@@ -1,5 +1,7 @@
 # Netflix Movies and TV Shows Clustering
 
+![170177846-17657ccf-3bb0-4380-b44b-5d4e9dea415e](https://user-images.githubusercontent.com/122104510/229823161-497594b0-24a2-403a-bd4d-c4eac009501c.gif)
+
 
 
 
